@@ -271,7 +271,7 @@ function createLineChart(data) {
 
       created = (Date.parse(createdAt)-startDate) / 90000000
       console.log("createdat", created)
-      let yPos = 300 - xp/1980
+      let yPos = 300 - xp/2050
       points.push(created, yPos)
       xy.push({
         x: created,
