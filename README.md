@@ -1,6 +1,6 @@
 # Profile Page Project 
 
-<img src="https://i.giphy.com/media/FTnjRCQyNVzjqYCfdi/giphy.gif" width="480" />
+![Profile Demo](graphql.gif)
 
 ## Description
 
@@ -13,10 +13,6 @@ The profile page allows users to view their identification, XP amount, grades, a
 - GraphQL API
 - JWT Authentication
 - SVG for graphs 
-
-## Installation
-
-Clone the repo and run `npm install`
 
 ## Usage
 
