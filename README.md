@@ -1,6 +1,6 @@
 # Profile Page Project 
 
-<iframe src="https://giphy.com/embed/FTnjRCQyNVzjqYCfdi" width="480" height="290" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FTnjRCQyNVzjqYCfdi"></a></p>
+<img src="https://i.giphy.com/media/FTnjRCQyNVzjqYCfdi/giphy.gif" width="480" />
 
 ## Description
 
